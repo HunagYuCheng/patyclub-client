@@ -1,7 +1,7 @@
 <template>
   <div class="viewActivities-filter">
     <div class="row q-gutter-sm items-center">
-      <label style="font-size: large;font-weight: bold;">我</label>
+      <label style="font-size: large;font-weight: bold;">人家</label>
       <q-tabs
         v-model="tabMode"
         dense
