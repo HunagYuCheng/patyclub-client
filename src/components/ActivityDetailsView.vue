@@ -80,7 +80,7 @@
           <q-btn
             class="btn-apply"
             icon="person_add_alt_1"
-          >我要上白金</q-btn>
+          >我要報名</q-btn>
         </div>
       </div>
       <div class="title">{{ eventTitle }}</div>
